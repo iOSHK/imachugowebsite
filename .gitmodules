@@ -1,0 +1,9 @@
+[submodule "theme/dot"]
+	path = theme/dot
+	url = https://github.com/themefisher/dot.git
+[submodule "themes/dot"]
+	path = themes/dot
+	url = https://github.com/themefisher/dot.git
+[submodule "themes/hugo-uilite"]
+	path = themes/hugo-uilite
+	url = https://github.com/uicardiodev/hugo-uilite
