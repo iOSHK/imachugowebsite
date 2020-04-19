@@ -4,7 +4,7 @@ baseURL = "https://examplesite.com/"
 # theme
 theme = "dot"
 # site title
-title = "Dot"
+title = "my first change"
 # desable language
 disableLanguages = []
 
