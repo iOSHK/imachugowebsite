@@ -6,7 +6,6 @@ description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit am
 type : "docs"
 ---
 
-# meee
 Many businesses employ full-time pricing analysts or hire an analyst as a consultant for a particular project or concern.
 
 Pricing analysts look at industry standards, playing close attention to the pricing strategies of their competitors.
